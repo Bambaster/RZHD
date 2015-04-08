@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="rzhd2" size="300.000000 349.947083" />
+    <ImageTarget name="rzhd1" size="300.000000 349.947083" />
+    <ImageTarget name="PZHD_Kamuf" size="300.000000 349.947083" />
+    <ImageTarget name="PEls_RZHD2" size="300.000000 349.886108" />
+    <ImageTarget name="Pels_RZHD" size="20.000000 80.503143" />
+    <ImageTarget name="rzhd_real" size="200.000000 233.266129" />
+    <ImageTarget name="nts" size="100.000000 118.348305" />
+    <ImageTarget name="RZHD_2" size="10.000000 4.478918" />
+    <ImageTarget name="RZHD_1" size="20.000000 8.957836" />
+    <ImageTarget name="RZHD" size="256.000000 487.452057" />
+    <ImageTarget name="Lesson2" size="70.000000 30.712500" />
+  </Tracking>
+</QCARConfig>
